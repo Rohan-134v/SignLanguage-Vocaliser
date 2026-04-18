@@ -10,10 +10,10 @@ These sensor readings are processed to detect specific hand gestures, which are 
 ## Images
 
 ### Circuit Diagram
-![Circuit Diagram](images/circuit.png)
+![Circuit Diagram](Circuit.png)
 
 ### Project Prototype
-![Project Prototype](images/project.png)
+![Project Prototype](project.png)
 
 > Place your images inside an `images/` folder in the repository with the following names:
 > - `circuit-diagram.png`

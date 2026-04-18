@@ -14,11 +14,6 @@ These sensor readings are processed to detect specific hand gestures, which are 
 
 ### Project Prototype
 ![Project Prototype](project.png)
-
-> Place your images inside an `images/` folder in the repository with the following names:
-> - `circuit-diagram.png`
-> - `project-photo.png`
-
 ---
 
 ## Features

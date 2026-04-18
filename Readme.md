@@ -1,6 +1,6 @@
 # Smart Glove for Sign Language Recognition
 
-## Overview
+## Abstract
 This project presents a smart glove system capable of recognizing sign language gestures using four flex sensors and an MPU6050 motion sensor. The glove captures finger bending (via flex sensors) and hand orientation/movement (via the MPU6050), and transmits the data wirelessly using an HC-05 Bluetooth module.
 
 These sensor readings are processed to detect specific hand gestures, which are then converted into corresponding text outputs. The system provides a low-cost, real-time solution to bridge communication gaps between speech-impaired and hearing individuals, emphasizing portability, accuracy, and ease of use.
